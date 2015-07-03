@@ -10,12 +10,12 @@ highlighter: pygments
 #
 title : Keep Fighting Move Faster
 tagline: Site Tagline
-author :lyl
-  name :lyl
-  email : lyl62560@163.com
-  github : lyl625760
-  twitter : lyl625760
-  feedburner : lyl625760
+author:
+  name:lyl
+  email:lyl625760@meituan.com
+  github:lyl625760
+  twitter:lyl625760
+  feedburner:lyl625760
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
