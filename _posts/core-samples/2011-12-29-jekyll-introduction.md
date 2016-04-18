@@ -19,6 +19,7 @@ dynamic components such as templates, partials, liquid code, markdown, etc. Jeky
 ### Examples
 
 This website is created with Jekyll. [Other Jekyll websites](https://github.com/mojombo/jekyll/wiki/Sites).
+This website is created with Jekyll. [Other Jekyll websites](https://www.baidu.com).
 
 
 
