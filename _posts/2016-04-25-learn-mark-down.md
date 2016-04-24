@@ -7,3 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 > "Mark Donw Language : try to traslate plain text into HTML"
+## Symbols
+\*
+\#
+
