@@ -4,13 +4,22 @@
  <title>Live to Die</title>
  <link href="http://lyl625760.github.io/atom.xml" rel="self"/>
  <link href="http://lyl625760.github.io"/>
- <updated>2016-05-02T13:29:40+08:00</updated>
+ <updated>2016-11-07T20:04:04+08:00</updated>
  <id>http://lyl625760.github.io</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>gogogog</title>
+   <link href="http://lyl625760.github.io/2016/05/02/gogogog"/>
+   <updated>2016-05-02T00:00:00+08:00</updated>
+   <id>http://lyl625760.github.io/2016/05/02/gogogog</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Learn Mark Down</title>

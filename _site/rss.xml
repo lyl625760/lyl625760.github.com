@@ -5,10 +5,19 @@
         <description>Live to Die - </description>
         <link>http://lyl625760.github.io</link>
         <atom:link href="http://lyl625760.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 02 May 2016 13:29:40 +0800</lastBuildDate>
-        <pubDate>Mon, 02 May 2016 13:29:40 +0800</pubDate>
+        <lastBuildDate>Mon, 07 Nov 2016 20:04:04 +0800</lastBuildDate>
+        <pubDate>Mon, 07 Nov 2016 20:04:04 +0800</pubDate>
         <ttl>60</ttl>
 
+
+        <item>
+                <title>gogogog</title>
+                <description>
+</description>
+                <link>http://lyl625760.github.io/2016/05/02/gogogog</link>
+                <guid>http://lyl625760.github.io/2016/05/02/gogogog</guid>
+                <pubDate>Mon, 02 May 2016 00:00:00 +0800</pubDate>
+        </item>
 
         <item>
                 <title>Learn Mark Down</title>
