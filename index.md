@@ -1,17 +1,12 @@
 ---
 layout: page
-title: Hello World!
+title: Welcome!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
     
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
+## My Posts
 
 Here's a sample "posts list".
 
