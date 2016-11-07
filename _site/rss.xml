@@ -5,44 +5,26 @@
         <description>Live to Die - </description>
         <link>http://lyl625760.github.io</link>
         <atom:link href="http://lyl625760.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 07 Nov 2016 20:45:01 +0800</lastBuildDate>
-        <pubDate>Mon, 07 Nov 2016 20:45:01 +0800</pubDate>
+        <lastBuildDate>Mon, 07 Nov 2016 21:10:13 +0800</lastBuildDate>
+        <pubDate>Mon, 07 Nov 2016 21:10:13 +0800</pubDate>
         <ttl>60</ttl>
 
 
         <item>
-                <title>123</title>
+                <title>Jekyll BootStrap 不爽的地方</title>
                 <description>
+&lt;h2 id=&quot;posts-&quot;&gt;Posts 必须以日期开头。&lt;/h2&gt;
+
+&lt;p&gt;vi文件太慢了。&lt;/p&gt;
+
+&lt;h2 id=&quot;posts--1&quot;&gt;Posts 里面没有目录的概念。&lt;/h2&gt;
+
+&lt;p&gt;所有Posts在一个目录下，如果日志很多的话。。。。&lt;/p&gt;
+
 </description>
-                <link>http://lyl625760.github.io/2016/11/07/123</link>
-                <guid>http://lyl625760.github.io/2016/11/07/123</guid>
+                <link>http://lyl625760.github.io/life/2016/11/07/1</link>
+                <guid>http://lyl625760.github.io/life/2016/11/07/1</guid>
                 <pubDate>Mon, 07 Nov 2016 00:00:00 +0800</pubDate>
-        </item>
-
-        <item>
-                <title>gogogog</title>
-                <description>
-&lt;h2 id=&quot;print-good-day&quot;&gt;Print Good Day&lt;/h2&gt;
-
-&lt;p&gt;testaa&lt;/p&gt;
-
-&lt;h2 id=&quot;aa&quot;&gt;AA&lt;/h2&gt;
-
-&lt;p&gt;dafdaf&lt;/p&gt;
-
-</description>
-                <link>http://lyl625760.github.io/2016/11/06/tt</link>
-                <guid>http://lyl625760.github.io/2016/11/06/tt</guid>
-                <pubDate>Sun, 06 Nov 2016 00:00:00 +0800</pubDate>
-        </item>
-
-        <item>
-                <title>gogogog</title>
-                <description>
-</description>
-                <link>http://lyl625760.github.io/2016/05/02/gogogog</link>
-                <guid>http://lyl625760.github.io/2016/05/02/gogogog</guid>
-                <pubDate>Mon, 02 May 2016 00:00:00 +0800</pubDate>
         </item>
 
         <item>
@@ -71,27 +53,6 @@
                 <link>http://lyl625760.github.io/2016/04/25/learn-mark-down</link>
                 <guid>http://lyl625760.github.io/2016/04/25/learn-mark-down</guid>
                 <pubDate>Mon, 25 Apr 2016 00:00:00 +0800</pubDate>
-        </item>
-
-        <item>
-                <title>just go go</title>
-                <description>
-</description>
-                <link>http://lyl625760.github.io/2016/04/24/just-go-go</link>
-                <guid>http://lyl625760.github.io/2016/04/24/just-go-go</guid>
-                <pubDate>Sun, 24 Apr 2016 00:00:00 +0800</pubDate>
-        </item>
-
-        <item>
-                <title>hi,lyl</title>
-                <description>&lt;p&gt;#Test
-##Test1
-##Hello&lt;/p&gt;
-
-</description>
-                <link>http://lyl625760.github.io/%E7%94%9F%E6%B4%BB/2015/07/03/hilyl</link>
-                <guid>http://lyl625760.github.io/%E7%94%9F%E6%B4%BB/2015/07/03/hilyl</guid>
-                <pubDate>Fri, 03 Jul 2015 00:00:00 +0800</pubDate>
         </item>
 
         <item>

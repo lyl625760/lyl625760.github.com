@@ -11,10 +11,6 @@ http://lyl625760.github.io/rss.xml
 http://lyl625760.github.io/sitemap.txt
 http://lyl625760.github.io/tags
 
-http://lyl625760.github.io/2016/11/07/123
-http://lyl625760.github.io/2016/11/06/tt
-http://lyl625760.github.io/2016/05/02/gogogog
+http://lyl625760.github.io/life/2016/11/07/1
 http://lyl625760.github.io/2016/04/25/learn-mark-down
-http://lyl625760.github.io/2016/04/24/just-go-go
-http://lyl625760.github.io/%E7%94%9F%E6%B4%BB/2015/07/03/hilyl
 http://lyl625760.github.io/lessons/2011/12/29/jekyll-introduction
