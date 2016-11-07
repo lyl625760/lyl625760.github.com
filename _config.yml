@@ -9,7 +9,7 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Live to Die
-tagline: Site Tagline
+tagline: Blogs
 author:
   name:lyl
   email:lyl625760@meituan.com
@@ -80,7 +80,8 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
+    #provider : disqus
     disqus :
       short_name : jekyllbootstrap
     livefyre :
